@@ -1,9 +1,5 @@
 {
   "layout": {
-    "main": [
-      { "widthContent": "640" },
-      { "widthRight": "312" },
-      { "topHeight": "40" }
-    ]
+    "main": [{ "wContent": "640" }, { "wRight": "312" }, { "hTop": "40" }]
   }
 }
