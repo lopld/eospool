@@ -1,5 +1,3 @@
 {
-  "layout": {
-    "main": [{ "wContent": "640" }, { "wRight": "312" }, { "hTop": "40" }]
-  }
+  "layoutMain": [{ "wContent": "640" }, { "wRight": "312" }, { "hTop": "40" }]
 }
